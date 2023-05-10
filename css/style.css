@@ -1,0 +1,28 @@
+/**
+* Alan Kay Tribute Page
+*/
+
+body, html {
+	margin: 0;
+	padding: 0;
+}
+#main {
+	height: auto;
+	width: 100%;
+	text-align: center;
+	background: navy;
+	color: white;
+	padding: 100px auto;
+}
+#main h1 {
+	margin: 25px auto;
+	text-align: center;
+}
+#main img#image {
+	text-align: center;
+	margin: 50px auto;
+	display: block;
+}
+#main a#tribute-link {
+	color: white;
+}
